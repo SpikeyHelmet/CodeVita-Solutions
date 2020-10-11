@@ -1,4 +1,4 @@
-#Java Solution for Digits , not very optimal but it works :)
+//Java Solution for Digits , not very optimal but it works :)
 
 import java.util.*;
 
